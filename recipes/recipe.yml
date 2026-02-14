@@ -21,6 +21,7 @@ modules:
     repos:
       copr:
         - atim/starship
+        - lilay/topgrade
     install:
       packages:
         - micro
@@ -31,6 +32,7 @@ modules:
         - k3b
         - kate
         - okular
+        - topgrade
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
