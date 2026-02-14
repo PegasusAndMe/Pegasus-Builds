@@ -24,17 +24,18 @@ modules:
         - lilay/topgrade
     install:
       packages:
-        - micro
-        - starship
-        - distrobox
-        - virt-manager
         - audex
-        - k3b
-        - kate
-        - okular
-        - topgrade
+        - distrobox
         - fastfetch
         - gwenview
+        - k3b
+        - kate
+        - mediawriter
+        - micro
+        - okular
+        - starship
+        - topgrade
+        - virt-manager
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
