@@ -39,8 +39,7 @@ modules:
         - starship
         - topgrade
         - virt-manager
-        - vlc-cli
-        - vlc-gui-qt
+        - vlc
         - vlc-plugins-all
     remove:
       packages:
