@@ -1,6 +1,6 @@
 # pegasus-dx &nbsp; [![bluebuild build badge](https://github.com/pegasusandme/pegasus-dx/actions/workflows/build.yml/badge.svg)](https://github.com/pegasusandme/pegasus-dx/actions/workflows/build.yml)
 
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
+See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template: https://github.com/blue-build/template
 
 This is a custom image based on the Universal Blue modified Kinoite (main) image located here: ghcr.io/ublue-os/kinoite-main. This is pulling from "latest" and not a specific version... for now at least. 
 
