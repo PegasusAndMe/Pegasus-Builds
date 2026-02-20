@@ -32,6 +32,7 @@ modules:
         - gwenview
         - haruna
         - kate
+        - kcalc
         - kolourpaint
         - mediawriter
         - micro
